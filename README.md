@@ -29,8 +29,8 @@ Ele foi desenvolvido como projeto final de curso para consolidar conhecimentos e
 
 1. **Clonar o repositório**
    ```bash
-     git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-     cd SEU_REPOSITORIO
+     git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/ValeryAlves/agendamento.git)
+     cd agendamento
 
 2. **Criar e ativar ambiente virtual**
    ```bash
