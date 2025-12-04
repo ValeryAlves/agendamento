@@ -1,6 +1,6 @@
-# 🛍️ Sistema de Agendamento e Controle de Atendimento para Lash & Design de Sobrancelhas - Dart (Flutter)
+# 🛍️ Sistema de Agendamento e Controle de Atendimento - Dart (Flutter)
 
-Este projeto é um **e Agendamento e Controle de Atendimento em Flutter**, utilizando o padrão MVVM com Provider para gerenciamento de estado.
+Este projeto é um **Sistema de Agendamento e Controle de Atendimento para Lash & Design de Sobrancelhas em Flutter**, utilizando o padrão MVVM com Provider para gerenciamento de estado.
 Ele oferece funcionalidades completas para gestão de **clientes**, **serviços**, **funcionários**, **agendamentos** e **formas de pagamento**, além de autenticação simples.
 Ele foi desenvolvido como projeto final de curso para consolidar conhecimentos em **Programação para Dispositivos Móveis** para a disciplina Programação para Dispositivos Móveis - 4º Semestre, do curso de Tecnologia em Sistemas para Internet do IFMT.
 
@@ -29,7 +29,7 @@ Ele foi desenvolvido como projeto final de curso para consolidar conhecimentos e
 
 1. **Clonar o repositório**
    ```bash
-     git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/ValeryAlves/agendamento.git)
+     git clone (https://github.com/ValeryAlves/agendamento.git)
      cd agendamento
 
 2. **Criar e ativar ambiente virtual**
